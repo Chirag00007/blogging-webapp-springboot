@@ -12,8 +12,8 @@ public class BloggingWebapppSpringbootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BloggingWebapppSpringbootApplication.class, args);
-    }
 
+    }
     @Bean
     public ModelMapper modelMapper() {
         return new ModelMapper();

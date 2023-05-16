@@ -2,7 +2,7 @@ package com.chirag.main.services.Impl;
 
 import com.chirag.main.entities.User;
 import com.chirag.main.exceptions.ResourceNotFoundException;
-import com.chirag.main.payloads.UserDto;
+import com.chirag.main.dto.UserDto;
 import com.chirag.main.repositiories.UserRepositry;
 import com.chirag.main.services.UserService;
 import org.modelmapper.ModelMapper;

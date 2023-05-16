@@ -1,4 +1,4 @@
-package com.chirag.main.payloads;
+package com.chirag.main.helpers;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
